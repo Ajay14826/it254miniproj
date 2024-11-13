@@ -26,8 +26,8 @@ module.exports = {
     require('tailwind-typewriter')({
         wordsets: {
             bookstore: {
-                words: ['Welcome to the bookstore', 'Created by Nandan Vyas'],
-                delay: 3
+                words: ['Welcome to the bookstore', 'Created by Ajay T S'],
+                delay: 2
             }
         }
     })

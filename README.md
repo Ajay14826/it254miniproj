@@ -141,11 +141,7 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- CONTACT -->
 
-## Contact
 
-Nandan Vyas - [@NandanVyas](https://twitter.com/NandanVyas) - nv.nandanvyas@gmail.com
-
-Project Link: [NandanVyas/bookstore](https://github.com/NandanVyas/bookstore)
 
 ## Learn More
 
